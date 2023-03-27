@@ -8,5 +8,6 @@
 </head>
 <body>
 	<h1>ggg</h1>
+	<h2>하이요</h2>
 </body>
 </html>
