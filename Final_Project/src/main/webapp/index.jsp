@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>ggg</h1>
-	<h2>하이요</h2>
+	<h1>Final_Project</h1>
+
 </body>
 </html>
